@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f12b75ba-680d-4b04-975c-1989f1eac463" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/versions/2025_04_21_2348-35ca34bc5dce_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/versions/2025_04_22_0012-308da2507907_create_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/versions/2025_04_24_1842-18202db18ebd_update_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/versions/2025_04_27_1932-28614a7e257c_refactor_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/versions/2025_04_28_2321-5d9f32a937e1_delete_key.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/alembic/versions/2025_04_30_2034-4721333d7d11_refactor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/patterns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/tests/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/tests/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/tests/models/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/tests/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/tests/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/back/tests/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsar_cannon/test/test_client.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nikita-Mihailov/Tsar2.0.git",
+    "accountId": "a43c22c8-e137-4eac-b49d-c22f3cb21ff6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2x4WqQNZobgQCXSjtwqS4oWJgKG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "back",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Nikita/Documents/GitHub/Tsar2/Tsar2.0/tsar_cannon"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f12b75ba-680d-4b04-975c-1989f1eac463" name="Changes" comment="" />
+      <created>1747198016840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747198016840</updated>
+    </task>
+    <servers />
+  </component>
+</project>
